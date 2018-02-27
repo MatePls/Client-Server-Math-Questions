@@ -9,7 +9,7 @@ package client.server.coursework;
  *
  * @author w1549523
  */
-public class ClientServerCoursework {
+public class ServerThread {
 
     /**
      * @param args the command line arguments
